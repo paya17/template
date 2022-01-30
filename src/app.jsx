@@ -1,9 +1,8 @@
-// import logo from './logo.svg'; 지우기
-import './app.css'; //소문자로
+import './app.css'; 
 
 function App() {
   return (
-    <h1>Hello</h1> //지우고 이거 넣기
+    <h1>Hello</h1> 
   );
 }
 
